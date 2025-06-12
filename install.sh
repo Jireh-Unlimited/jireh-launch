@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "Running Jireh install script..."
-# Add your setup steps below this line
-
+echo 'Running Jireh install...'
+cd /opt/jireh && bash setup.sh

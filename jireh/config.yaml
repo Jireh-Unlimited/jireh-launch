@@ -1,0 +1,6 @@
+post_limit_per_day: 48
+api_budget_usd: 50
+channels:
+  - tiktok
+  - youtube
+  - instagram
